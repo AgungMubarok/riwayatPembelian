@@ -1,7 +1,7 @@
 import React from 'react';
 import './HistoryCard.css';
 
-const HistoryCard = ({ riwayat }) => {
+const historyCard = ({ riwayat }) => {
     return (
         <div>
             {
@@ -20,4 +20,4 @@ const HistoryCard = ({ riwayat }) => {
     );
 };
 
-export default HistoryCard;
+export default historyCard;
