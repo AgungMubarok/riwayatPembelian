@@ -1,0 +1,11 @@
+.menu-history {
+  padding: 0px 200px;
+}
+
+.menu-history,h1 {
+  text-align: center;
+}
+body {
+  background-color: lightslategrey;
+  color: aliceblue;
+}

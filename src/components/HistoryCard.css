@@ -1,0 +1,14 @@
+img {
+    border-radius: 50%;
+    width: 150px;
+    margin-right: 40px;
+    float: left;
+}
+
+.main {
+    padding: 50px;
+    border: 1px solid whitesmoke;
+    background-color: gray;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
